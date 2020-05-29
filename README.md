@@ -1,5 +1,7 @@
 # Pacman-with-CNN-as-brain
 
+Download/clone the directory with the green button at the top right of this site and execute the PacmanStage.py to run the simulation.
+
 In this simulation pacman uses his vision range in front of him to asses the situation, through the usage
 of a convolutional neural network. This distance of an object to pacman is translated into a depth (image resize) and the whole image is overlayed with noise, which can be set to a desired strength.
 
