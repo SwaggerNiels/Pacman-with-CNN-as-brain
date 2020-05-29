@@ -47,6 +47,10 @@ decrease the frame delay -> higher game speed
 (first) activate data collection mode, (next) add training iteration/epoch to update CNN, accuracy echo'd in terminal
 ### r
 reset the weights and biases in the CNN to random new numbers
+### i
+load NN preset weights and biases (100% accuracy)
+### o
+overwrite the NN preset weights and biases with your currenct NN weights and biases
 ### l
 activate the lab game mode
 ### f
@@ -55,6 +59,7 @@ activate the field/staging game mode
 set building mode (activate this before loading wall preset!)
 ### 1-9
 either one of the numbers can be used to load a wall present (when in building mode!^)
+
 either one of the numbers can be used to store a wall preset (when not in building mode, carefull for overwrites!)
 ### p
 pause the current game mode
